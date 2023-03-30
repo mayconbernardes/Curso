@@ -1,0 +1,23 @@
+ol {
+    color: rgb(29, 193, 75);
+    text-align: center;
+ }
+button {
+    color: #fff;
+    background: #000;
+    padding: 1px 40px;
+    text-decoration: Click; 
+    text-align: center;
+   
+}
+
+label {
+    color: rgb(0, 0, 0);
+    border-radius: 235px;
+}
+body {
+    border-radius: 260%;
+    background-color: aqua;
+    padding: 25px;
+    text-align: center;
+}
